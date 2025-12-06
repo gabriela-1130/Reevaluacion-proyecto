@@ -1,4 +1,4 @@
-# Reevaluacion-proyecto
+# Reevaluacion proyecto Avance 1
 # Refugio de Perros y Gatos
 
 Este proyecto modela un refugio donde se registran animales, voluntarios y adopciones.
